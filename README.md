@@ -1,1 +1,1 @@
-# ColorPersonalityQuiz
+# Color Personality Quiz
